@@ -6,9 +6,6 @@ Using the Spotify and Genius APIs to attain song lyrics
 Team members:
 
 Andrea Cicero
-
 Devynn Moreno
-
 Elsa Schieffelin
-
 Avery Twitchell-Heyne
